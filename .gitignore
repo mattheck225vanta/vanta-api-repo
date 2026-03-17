@@ -1,0 +1,4 @@
+.env
+vantavenv/
+__pycache__/
+*.pyc
